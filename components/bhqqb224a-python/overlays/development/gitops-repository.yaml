@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bhqqb224a-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bhqqb224a-python-gitops
